@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+requests
+python-docx
+fpdf2
+pypdf
+scikit-learn
+numpy
+passlib[bcrypt]
+python-jose
+python-dotenv
